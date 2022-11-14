@@ -1,0 +1,17 @@
+.frame{
+
+
+    height: 300px;
+    width: 50vw;
+}
+
+.megacont{
+    height: 600px;
+    width: 600px;
+
+
+}
+
+#inp1:checked ~ body.style{
+    background-color: black;
+}
